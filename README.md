@@ -1,3 +1,5 @@
+> V2.1.0 demo (January 2026), superseded by [SKANN-SSL](https://github.com/suniltyagi/SKANN-SSL). Figures below are for V2.1.0.
+
 # SKANN-SSL V2.1.0 Demo
 
 **Underwater Acoustic Vessel Classification System**
@@ -80,7 +82,7 @@ SKANN-SSL-Demo/
 | Kernel Size | Frequency | Acoustic Phenomenon |
 |-------------|-----------|---------------------|
 | 1023 | 15+ Hz | Shaft rate |
-| 511 | 31+ Hz | Generator (25 Hz) |
+| 511 | 31+ Hz | Blade-pass frequency |
 | 255 | 62+ Hz | Generator (50 Hz) |
 | 127 | 125+ Hz | Blade pass |
 | 63 | 250+ Hz | Hull resonance |
@@ -110,6 +112,8 @@ For licensing, integration, or technical support:
 
 **Oravont Systems LLP**
 
+[styagi@oravontsystems.com](mailto:styagi@oravontsystems.com)
+
 ---
 
-*SKANN-SSL: Selective Kernel Audio Neural Networks with Self-Supervised Learning*
+*SKANN-SSL: Selective-Kernel Acoustic Neural Network with Self-Supervised Learning*
